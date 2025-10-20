@@ -34,7 +34,7 @@ i (счетчик цикла)
 Шаг 5: Завершение
 Вернуть 0
 ### Блок-схема
-<img width="421" height="1231" alt="Дз номер 8 drawio" src="https://github.com/user-attachments/assets/3251475e-3fee-4815-9dfd-c4a2918c075a" />
+<img width="506" height="1231" alt="Дз номер 8 drawio" src="https://github.com/user-attachments/assets/67ea27bc-4386-4374-ab8a-34e8033a9f8d" />
 
 https://app.diagrams.net/
 ## 2. Реализация программы
